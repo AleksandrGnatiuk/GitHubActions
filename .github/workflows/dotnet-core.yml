@@ -25,4 +25,4 @@ jobs:
       run: dotnet build ./GitHubActionsLibProject/GitHubActionsLibProject.sln --configuration Release --no-restore
     
     - name: Test
-      run: dotnet test ./GitHubActionsLibProject/TestProject/TestProjectTestProject.csproj --no-restore --verbosity normal
+      run: dotnet test ./GitHubActionsLibProject/TestProject/TestProject.csproj --no-restore --verbosity normal
