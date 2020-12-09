@@ -1,0 +1,9 @@
+C:\Users\Aleksandr_Gnatiuk\source\repos\GitHubActions\GitHubActionsLibProject\GitHubActionsLibProject\bin\Debug\netcoreapp3.1\GitHubActionsLibProject.deps.json
+C:\Users\Aleksandr_Gnatiuk\source\repos\GitHubActions\GitHubActionsLibProject\GitHubActionsLibProject\bin\Debug\netcoreapp3.1\GitHubActionsLibProject.dll
+C:\Users\Aleksandr_Gnatiuk\source\repos\GitHubActions\GitHubActionsLibProject\GitHubActionsLibProject\bin\Debug\netcoreapp3.1\GitHubActionsLibProject.pdb
+C:\Users\Aleksandr_Gnatiuk\source\repos\GitHubActions\GitHubActionsLibProject\GitHubActionsLibProject\obj\Debug\netcoreapp3.1\GitHubActionsLibProject.csprojAssemblyReference.cache
+C:\Users\Aleksandr_Gnatiuk\source\repos\GitHubActions\GitHubActionsLibProject\GitHubActionsLibProject\obj\Debug\netcoreapp3.1\GitHubActionsLibProject.AssemblyInfoInputs.cache
+C:\Users\Aleksandr_Gnatiuk\source\repos\GitHubActions\GitHubActionsLibProject\GitHubActionsLibProject\obj\Debug\netcoreapp3.1\GitHubActionsLibProject.AssemblyInfo.cs
+C:\Users\Aleksandr_Gnatiuk\source\repos\GitHubActions\GitHubActionsLibProject\GitHubActionsLibProject\obj\Debug\netcoreapp3.1\GitHubActionsLibProject.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr_Gnatiuk\source\repos\GitHubActions\GitHubActionsLibProject\GitHubActionsLibProject\obj\Debug\netcoreapp3.1\GitHubActionsLibProject.dll
+C:\Users\Aleksandr_Gnatiuk\source\repos\GitHubActions\GitHubActionsLibProject\GitHubActionsLibProject\obj\Debug\netcoreapp3.1\GitHubActionsLibProject.pdb

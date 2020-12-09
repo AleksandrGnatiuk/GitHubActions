@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubActionsLibProject", "GitHubActionsLibProject\GitHubActionsLibProject.csproj", "{27467595-BEDD-4D66-8161-C33A32F82A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{17B4EDD7-0AA2-4D7B-9ECE-EF36FE385A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27467595-BEDD-4D66-8161-C33A32F82A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27467595-BEDD-4D66-8161-C33A32F82A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27467595-BEDD-4D66-8161-C33A32F82A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27467595-BEDD-4D66-8161-C33A32F82A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B4EDD7-0AA2-4D7B-9ECE-EF36FE385A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B4EDD7-0AA2-4D7B-9ECE-EF36FE385A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B4EDD7-0AA2-4D7B-9ECE-EF36FE385A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B4EDD7-0AA2-4D7B-9ECE-EF36FE385A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
