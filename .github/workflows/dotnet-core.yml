@@ -21,12 +21,12 @@ jobs:
         
         
     - name: Setup MSBuild.exe
-      uses: microsoft/setup-msbuild
+      uses: microsoft/setup-msbuild@v1
       with:
         vs-version: 16.6
       
     - name: Setup NuGet
-      uses: nuget/setup-nuget
+      uses: nuget/setup-nuget@v1
         
     
     
